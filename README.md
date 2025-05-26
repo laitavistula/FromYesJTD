@@ -4,11 +4,11 @@ This project is a comprehensive, user-friendly guide designed to help internatio
 
 > This academic technical writing project was created to demonstrate how technical writing principles, such as clarity, structure, consistency, and usability, can be applied in a non-technical, real-world context.
 
-## Project Overview
+## Project overview
 
 The guide is built to inform and support couples, especially where one partner is a Polish citizen, through the wedding process in Poland. It includes detailed instructions, document templates, timelines, checklists, and cultural notes.
 
-### Key Features
+### Key features
 
 - Step-by-step **wedding checklist**
 - Guidance on **name changes**, **paperwork**, and **translation requirements**
@@ -18,14 +18,14 @@ The guide is built to inform and support couples, especially where one partner i
 - Culturally appropriate **thank-you traditions**
 - **SOS section** for solving common issues like document delays
 
-## Who Is This For?
+## Who is this for?
 
 - International couples marrying in Poland
 - Foreign nationals marrying Polish citizens
 - Expats living in Poland planning a civil or religious wedding
 - Legal advisors and wedding planners working with foreign clients
 
-## How to Use This Guide
+## How to use this guide
 
 This project is structured to work as a website or digital handbook. You can:
 - Browse individual sections via dropdowns (if rendered as HTML)
