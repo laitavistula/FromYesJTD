@@ -1,4 +1,4 @@
-# Getting Married in Poland: A Practical Guide for International Couples
+# Getting married in Poland: a practical guide for international couples
 
 This project is a comprehensive, user-friendly guide designed to help international couples navigate the legal and administrative steps of getting married in Poland. From understanding ceremony types to preparing documents, anticipating challenges, and planning post-wedding formalities, this resource offers structured support in English with cultural context and legal clarity.
 
