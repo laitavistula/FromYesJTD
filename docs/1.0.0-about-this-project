@@ -1,3 +1,10 @@
+---
+title: About this project
+layout: default
+nav_order: 1
+has_children: true
+---
+
 ## About this project
 
 **“From 'Yes' to wesele"** is a comprehensive, non-commercial guide designed to assist foreign nationals marrying in Poland. It aims to clarify the necessary procedures, paperwork, and tasks, offering insights into Polish wedding venues and customs, practical tips on logistics, and ultimately providing international couples with a valuable resource for planning their special day.
