@@ -10,4 +10,4 @@ nav_order: 0
 
 This project showcases that the principles of technical communication can be applied to a broad spectrum of topics, extending well beyond traditionally "technical" subjects. While technical writing is usually associated with documenting software or machinery, this guide demonstrates its value in clarifying complex processes in other areas of life.
 
-For a more detailed, structured version of this project, you can explore the MadCap Flare version [here](https://laitavistula.github.io/FromYes/Content/Home.htm).
+You can explore the MadCap Flare version of the guide [here](https://laitavistula.github.io/FromYes/Content/Home.htm).
